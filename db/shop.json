@@ -1,0 +1,22 @@
+{
+"products":[
+{
+      "id": 1, "name": "Samsung", "price": 5000, "categoryId": 2, "description": "Samsung Laptop", "imageUrl": "https://images.unsplash.com/photo-1484788984921-03950022c9ef?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1104&q=80"
+    },
+    {
+      "id": 2, "name": "Apple", "price": 1000,"categoryId": 2, "description": "Apple MacBook", "imageUrl": "https://images.unsplash.com/photo-1484788984921-03950022c9ef?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1104&q=80"
+    }
+
+
+
+],
+"categories":[
+ {
+      "id": 1, "name": "Telefon"
+    },
+    {
+      "id": 2, "name": "Bilgisayar"
+    }
+]
+
+}
